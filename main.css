@@ -1,20 +1,24 @@
 
 body {
-  
+  background-color: #1e342a;
 }
 
 h1 {
-
+  color: #e5dcc8;
 }
 
 h2 {
-
+  color: #e5dcc8;
 }
 
 p {
-
+  color: #e5dcc8;
 }
 
 li {
+  color: #e5dcc8;
+}
 
+.link-text {
+  color: #e5dcc8;
 }
