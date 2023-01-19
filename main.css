@@ -45,7 +45,9 @@ h1 {
 }
 
 .text-A {
-
+  color: #e5dcc8;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
 }
 
 .continue-A {
@@ -65,7 +67,9 @@ h1 {
 }
 
 .text-B {
-  
+  color: #e5dcc8;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
 }
 
 .continue-B {
@@ -85,7 +89,9 @@ h1 {
 }
 
 .text-C {
-  
+  color: #e5dcc8;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
 }
 
 .continue-C {
@@ -101,7 +107,7 @@ h1 {
 }
 
 .list-1 {
-  
+  color: #e5dcc8;
 }
 
 li {
