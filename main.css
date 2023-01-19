@@ -4,12 +4,6 @@ body {
   text-align: center;
 }
 
-.grid-container {
-  display: grid;
-  grid-template-columns: auto auto auto;
-  grid-template-rows: 210px 105px 70px 70px 70px 70px 70px 70px 70px 70px 70px 70px 140px;
-}
-
 h1 {
   color: #e5dcc8;
   font-family: 'Bebas Neue', cursive;
@@ -41,7 +35,7 @@ h1 {
 }
 
 .img-A {
-
+  width: 500px;
 }
 
 .text-A {
@@ -63,7 +57,7 @@ h1 {
 }
 
 .img-B {
-  
+  width: 500px;
 }
 
 .text-B {
@@ -85,7 +79,7 @@ h1 {
 }
 
 .img-C {
-  
+  width: 500px;
 }
 
 .text-C {
