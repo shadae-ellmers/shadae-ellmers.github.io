@@ -132,7 +132,7 @@ li {
   font-size: 20px;
 }
 
-@media (max-width: 767px) {
+@media only screen and (max-width: 769px) {
   .post-A {
     font-size: 50px;
   }
