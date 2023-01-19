@@ -43,6 +43,8 @@ h1 {
 
 .img-A {
   width: 500px;
+  max-width: 100%;
+  height: auto;
 }
 
 .text-A {
@@ -68,6 +70,8 @@ h1 {
 
 .img-B {
   width: 500px;
+  max-width: 100%;
+  height: auto;
 }
 
 .text-B {
@@ -93,6 +97,8 @@ h1 {
 
 .img-C {
   width: 500px;
+  max-width: 100%;
+  height: auto;
 }
 
 .text-C {
