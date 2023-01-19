@@ -133,26 +133,38 @@ li {
 }
 
 @media only screen and (max-width: 769px) {
+  h1 {
+    font-size: 80px;
+  }
+  .directory-home {
+    font-size: 40px;
+  }
+  .directory-about {
+    font-size: 40px;
+  }
+  .directory-gallery {
+    font-size: 40px;
+  }
   .post-A {
-    font-size: 50px;
+    font-size: 40px;
   }
   .img-A {
     width: 1000px;
   }
   .post-B {
-    font-size: 50px;
+    font-size: 40px;
   }
   .img-B {
     width: 1000px;
   }
   .post-C {
-    font-size: 50px;
+    font-size: 40px;
   }
   .img-C {
     width: 1000px;
   }
   .fav-things {
-    font-size: 50px;
+    font-size: 40px;
     padding: auto;
     margin: 100px 0px 0px 0px;
   }
