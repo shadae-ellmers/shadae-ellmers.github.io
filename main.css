@@ -4,38 +4,108 @@ body {
   text-align: center;
 }
 
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: 210px 105px 70px 70px 70px 70px 70px 70px 70px 70px 70px 70px 140px;
+}
+
 h1 {
   color: #e5dcc8;
   font-family: 'Bebas Neue', cursive;
   font-size: 100px;
 }
 
-h2 {
+.directory-home {
+  color: #e5dcc8;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 50px;
+}
+
+.directory-about {
+  color: #e5dcc8;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 50px;
+}
+
+.directory-gallery {
+  color: #e5dcc8;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 50px;
+}
+
+.post-A {
   color: #e5dcc8;
   font-family: 'Bebas Neue', cursive;
   font-size: 30px;
 }
 
-p {
+.img-A {
+
+}
+
+.text-A {
+
+}
+
+.continue-A {
   color: #e5dcc8;
   font-family: 'Poppins', sans-serif;
   font-size: 20px;
+}
+
+.post-B {
+  color: #e5dcc8;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 30px;
+}
+
+.img-B {
+  
+}
+
+.text-B {
+  
+}
+
+.continue-B {
+  color: #e5dcc8;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+}
+
+.post-C {
+  color: #e5dcc8;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 30px;
+}
+
+.img-C {
+  
+}
+
+.text-C {
+  
+}
+
+.continue-C {
+  color: #e5dcc8;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+}
+
+.fav-things {
+  color: #e5dcc8;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 30px;
+}
+
+.list-1 {
+  
 }
 
 li {
   color: #e5dcc8;
   font-family: 'Poppins', sans-serif;
   font-size: 20px,;
-}
-
-.directory-text {
-  color: #e5dcc8;
-  font-family: 'Bebas Neue', cursive;
-  font-size: 50px;
-}
-
-.continue-text {
-  color: #e5dcc8;
-  font-family: 'Poppins', sans-serif;
-  font-size: 20px;
 }
