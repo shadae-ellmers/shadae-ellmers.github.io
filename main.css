@@ -27,9 +27,14 @@ li {
   font-size: 20px,;
 }
 
-.link-text {
+.depository-text {
   color: #e5dcc8;
   font-family: 'Bebas Neue', cursive;
   font-size: 50px;
 }
 
+.continue-text {
+  color: #e5dcc8;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+}
