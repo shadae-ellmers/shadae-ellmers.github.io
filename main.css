@@ -131,3 +131,34 @@ li {
   font-family: 'Poppins', sans-serif;
   font-size: 20px;
 }
+
+@media (max-width: 767px) {
+  .post-A {
+    font-size: 50px;
+  }
+  .img-A {
+    width: 1000px;
+  }
+  .post-B {
+    font-size: 50px;
+  }
+  .img-B {
+    width: 1000px;
+  }
+  .post-C {
+    font-size: 50px;
+  }
+  .img-C {
+    width: 1000px;
+  }
+  .fav-things {
+    font-size: 50px;
+    padding: auto;
+    margin: 100px 0px 0px 0px;
+  }
+}
+
+@media (min-width: 768px and max-width: 1023px) {
+
+}
+
