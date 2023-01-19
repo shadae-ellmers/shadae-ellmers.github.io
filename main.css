@@ -5,20 +5,25 @@ body {
 
 h1 {
   color: #e5dcc8;
+  font-family: 'Bebas Neue', cursive;
 }
 
 h2 {
   color: #e5dcc8;
+  font-family: 'Bebas Neue', cursive;
 }
 
 p {
   color: #e5dcc8;
+  font-family: 'Poppins', sans-serif;
 }
 
 li {
   color: #e5dcc8;
+  font-family: 'Poppins', sans-serif;
 }
 
 .link-text {
   color: #e5dcc8;
+  font-family: 'Bebas Neue', cursive;
 }
