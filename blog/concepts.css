@@ -62,6 +62,25 @@ li {
   margin: auto 20px auto 50px;
 }
 
+#smores {
+  width: 250px;
+  margin: 30px auto 30px auto;
+}
+
+#key {
+  width: 400px;
+  margin: 30px auto 30px auto;
+}
+
+#example {
+  width: 650px;
+  margin: 30px auto 30px auto;
+}
+
+#code-example {
+  width: 650px;
+  margin: 30px auto 30px auto;
+}
 
 @media only screen and (max-width: 769px) {
   h1 {
