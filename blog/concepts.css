@@ -94,4 +94,14 @@ li {
   }
   .directory-gallery {
     font-size: 40px;
-  
+  }
+  #key {
+    width: 350px;
+  }
+  #example {
+    width: 400px;
+  }
+  #code-example {
+    width: 400px;
+  }
+}
