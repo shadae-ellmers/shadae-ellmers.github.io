@@ -12,39 +12,11 @@ h1 {
   margin: 0px;
 }
 
-.directory-home {
+.directory {
   color: #e5dcc8;
   font-family: 'Bebas Neue', cursive;
   font-size: 50px;
   padding: 20px;
-}
-
-.directory-about {
-  color: #e5dcc8;
-  font-family: 'Bebas Neue', cursive;
-  font-size: 50px;
-  padding: 20px;
-}
-
-.directory-gallery {
-  color: #e5dcc8;
-  font-family: 'Bebas Neue', cursive;
-  font-size: 50px;
-  padding: 20px;
-}
-
-.post-A {
-  color: #e5dcc8;
-  font-family: 'Bebas Neue', cursive;
-  font-size: 30px;
-  margin-top: 100px;
-
-}
-
-.img-A {
-  width: 500px;
-  max-width: 100%;
-  height: auto;
 }
 
 h2 {
@@ -62,67 +34,26 @@ p {
   margin: auto 20px 20px 20px;
 }
 
-.text-A {
-  color: #e5dcc8;
-  font-family: 'Poppins', sans-serif;
-  font-size: 20px;
-}
-
-.continue-A {
-  color: #e5dcc8;
-  font-family: 'Poppins', sans-serif;
-  font-size: 20px;
-  background-color: #202121;
-  padding: 5px;
-}
-
-.post-B {
+.post-title {
   color: #e5dcc8;
   font-family: 'Bebas Neue', cursive;
   font-size: 30px;
   margin-top: 100px;
 }
 
-.img-B {
+.post-img {
   width: 500px;
   max-width: 100%;
   height: auto;
 }
 
-.text-B {
+.post-summary {
   color: #e5dcc8;
   font-family: 'Poppins', sans-serif;
   font-size: 20px;
 }
 
-.continue-B {
-  color: #e5dcc8;
-  font-family: 'Poppins', sans-serif;
-  font-size: 20px;
-  background-color: #202121;
-  padding: 5px;
-}
-
-.post-C {
-  color: #e5dcc8;
-  font-family: 'Bebas Neue', cursive;
-  font-size: 30px;
-  margin-top: 100px;
-}
-
-.img-C {
-  width: 500px;
-  max-width: 100%;
-  height: auto;
-}
-
-.text-C {
-  color: #e5dcc8;
-  font-family: 'Poppins', sans-serif;
-  font-size: 20px;
-}
-
-.continue-C {
+.continue-button {
   color: #e5dcc8;
   font-family: 'Poppins', sans-serif;
   font-size: 20px;
@@ -157,31 +88,13 @@ li {
   h1 {
     font-size: 80px;
   }
-  .directory-home {
+  .directory {
     font-size: 40px;
   }
-  .directory-about {
+  .post-title {
     font-size: 40px;
   }
-  .directory-gallery {
-    font-size: 40px;
-  }
-  .post-A {
-    font-size: 40px;
-  }
-  .img-A {
-    width: 1000px;
-  }
-  .post-B {
-    font-size: 40px;
-  }
-  .img-B {
-    width: 1000px;
-  }
-  .post-C {
-    font-size: 40px;
-  }
-  .img-C {
+  .post-img {
     width: 1000px;
   }
   .fav-things {
