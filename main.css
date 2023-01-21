@@ -51,6 +51,7 @@ p {
   color: #e5dcc8;
   font-family: 'Poppins', sans-serif;
   font-size: 20px;
+  text-align: center;
 }
 
 .continue-button {
@@ -82,6 +83,7 @@ li {
   color: #e5dcc8;
   font-family: 'Poppins', sans-serif;
   font-size: 10px;
+  text-align: center;
 }
 
 @media only screen and (max-width: 769px) {
