@@ -1,0 +1,36 @@
+The DOM
+The Document Object Model, also referenced to as the DOM, is a well-known programming interface. When you open your internet browser into any website, what you’re viewing is essentially a document comprised of HTML, CSS, and JavaScript intermingling. The DOM organises the structures and contents of this document and organises these components into nodes and objects to manipulate. It also provides a bridge to connect the HTML and CSS code with JavaScript to produce an interactive experience for the website.
+
+The DOM allows JavaScript to access and manipulate elements of HTML in a document. HTML elements can be accessed by using the tag name, class name, or id of the element. For example:
+•	document.querySelector (“#bread”);
+o	this JavaScript code finds the HTML element with the id “bread”
+HTML elements can be manipulated through the property of the element. For example:
+•	document.querySelector (“#bread”).innerHTML = “yum sandwich”
+o	this JavaScript code both finds the element by the “bread” id and instructs to change the text content (inner HTML) of that element to “yum sandwich”
+
+The DOM also allows JavaScript to change CSS. By accessing the and manipulating HTML, the CSS styling can also be adjusted like above. For example:
+•	const lunch = document.querySelectorAll(“#bread”)
+o	this JavaScript code creates a variable “lunch” that accesses all the elements with the “bread” id
+•	for (let i = 0; i < lunch.length; i++) {
+lunch[i].setAttribute(“style”, “color: pink”)
+}
+o	this JavaScript loops through each “lunch” element and changes the style (CSS) of the attribute, colour to pink
+
+I’d like to compare JavaScript to the tv show MTV’s Pimp My Ride. On the show, they are supplied with the car (HTML) and the design features (CSS), and they take pieces of both and enhance them (JavaScript) to make a more funky, enhanced car.
+
+Control Flow and Loops
+Control flow is the process that the computer reads and executes lines of code. Without loops, typically code will be read and executed by order of occurrence. If a pre-determined function or variable is referenced, the computer will back track to execute that specific section, then return to its place.
+Loops in code will execute a function for each piece of data in an array. This adjusts the control flow, as it will run through the code for the loop repeatedly until the condition is no longer met, then will continue to move through the code as normal.
+Control flow can be compared to moving through your night-time routine. You have steps that you typically go through sequentially, for example mine looks a little like this:
+1.	Shower
+2.	Brush hair
+3.	Floss
+4.	Brush teeth
+5.	Skincare
+Flossing can be looked at as a loop in the code. You move through each gap in the teeth, repeating the flossing step in all until there are no more gaps left, then you continue down your routine. 
+
+Objects and Arrays
+An object is used to store data with keys as a reference. The key is the property name, and the data associated with it is the property value. Multiple property name:value items can be stored single object, and multiple objects can be stored in an array. An array stores multiple pieces of data in a single object. This differs from objects as instead of personalised property values, data can be referenced by their index number, which is the ordered number (starting from 0) it occurs in the array. Therefore, to access data from an object you would reference its property name, and to access data from an array you would reference its index number. 
+
+Functions
+Functions in JavaScript are pieces of code that execute tasks. Functions are helpful for many reasons. Firstly, through the set up they allow the coder to break down a problem into smaller pieces. Secondly, it allows the code to be more readable and structured. Thirdly, they can be reused throughout the code, which condenses it and saves time to write. If you look at my night-time routine listed earlier, each of the tasks I complete can be thought of as functions that my brain executes my body to do.
