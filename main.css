@@ -86,6 +86,7 @@ li {
   text-align: center;
 }
 
+/* mobile */
 @media only screen and (max-width: 767px) {
   h1 {
     font-size: 50px;
@@ -106,3 +107,23 @@ li {
   }
 }
 
+/* tablet */
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  h1 {
+    font-size: 90px;
+  }
+  .directory {
+    font-size: 50px;
+  }
+  .post-title {
+    font-size: 50px;
+  }
+  .post-img {
+    width: 750px;
+  }
+  .fav-things {
+    font-size: 50px;
+    padding: auto;
+    margin: 100px 0px 0px 0px;
+  }
+}
