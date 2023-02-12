@@ -77,12 +77,6 @@ li {
   color: #e5dcc8;
   font-family: 'Poppins', sans-serif;
   font-size: 20px;
-  padding: auto 0px auto 0px;
-  margin: auto 0px auto 0px;
-}
-
-ul {
-  padding: 0px 0px 0px 0px;
 }
 
 .reference {
@@ -90,6 +84,16 @@ ul {
   font-family: 'Poppins', sans-serif;
   font-size: 10px;
   text-align: center;
+}
+
+ul {
+  text-align: left;
+  list-style-position: inside;
+}
+
+ol {
+  text-align: left;
+  list-style-position: inside;
 }
 
 /* mobile */
