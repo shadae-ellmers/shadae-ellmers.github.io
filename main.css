@@ -73,6 +73,11 @@ p {
   margin-top: 100px;
 }
 
+.fav-things-list {
+  text-align: center;
+  list-style-position: inside;
+}
+
 li {
   color: #e5dcc8;
   font-family: 'Poppins', sans-serif;
