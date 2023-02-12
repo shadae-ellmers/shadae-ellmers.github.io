@@ -92,13 +92,14 @@ li {
     font-size: 50px;
   }
   .directory {
-    font-size: 30px;
+    font-size: 20px;
   }
   .post-title {
     font-size: 30px;
+    margin-top: 80px;
   }
   .post-img {
-    width: 1000px;
+    width: 500px;
   }
   .fav-things {
     font-size: 30px;
